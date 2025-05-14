@@ -12,7 +12,7 @@ getgenv().Index = {
                 ['Visible'] = false,
                 ['Thickness'] = 1,
                 ['Color'] = Color3.fromRGB(111, 111, 11),
-                ['Radius'] = 100,
+                ['Radius'] = 50,
             },
         },
         ["TriggerBot"] = {
